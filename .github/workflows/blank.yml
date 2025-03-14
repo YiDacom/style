@@ -1,6 +1,6 @@
 # 1.首先，在workflow文件中定义触发器，例如每次推送到主分支时触发同步操作。
 # 工作流名称
-name: Sync Image to Aliyun  Example1
+name: Sync Image to Aliyun  Example success
  
 # 怎样触发工作流
 on:
